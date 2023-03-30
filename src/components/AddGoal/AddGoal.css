@@ -1,0 +1,35 @@
+.input-conatainer{
+  width: 500px;
+  height: 200px;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 5px #c3c2c1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 4% 0% 0% 32%;
+  border-radius: 5px;
+}
+
+.add-goal-button{
+  margin-left: 10px;
+  height: 32px;
+  background-color: green;
+  border: none;
+  color: #FFFFFF;
+}
+
+.input-field{
+  height: 30px;
+  width: 45%;
+  background-color: #c3c2c1;
+  border: none;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.input-field-invalid {
+  height: 30px;
+  width: 45%;
+  background-color: #e67373;
+  border: 2px solid #ff0000;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

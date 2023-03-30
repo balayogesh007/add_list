@@ -1,0 +1,11 @@
+.list-goals{
+ width: 500px;
+ height: 80px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-left: 30%;
+ list-style: none;
+ background-color: rgb(242, 242, 242);
+ margin-bottom: 10px;
+}
